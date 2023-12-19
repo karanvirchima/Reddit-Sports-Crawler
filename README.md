@@ -1,5 +1,4 @@
 # CS172 Project - Reddit
-https://www.cs.ucr.edu/~vagelis/classes/CS172/Course%20Project.htm
 
 ## How to Run the Bash Script file
   - This will run on the terminal assuming that it is compatible with python3
