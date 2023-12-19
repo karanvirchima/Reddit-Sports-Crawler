@@ -2,7 +2,7 @@
 
 
 ### Notes
-  - The goal of this project is to create a Web Engine
+  - The goal of this project is to create a Web Engine which shows results for sports related subreddit posts. 
   - The web engine allows us to enter a query that is sports related and any additional information for example if you want to search NBA and crawl things that include Lebron James.
   - We also can sort the crawled subreddits by upvotes, time, and relevance.
 
