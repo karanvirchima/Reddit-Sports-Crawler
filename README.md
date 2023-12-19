@@ -1,4 +1,20 @@
-# CS172 Project - Reddit
+# Project - WebEnginer using Reddit Crawler for Sports
+
+
+### Notes
+  - The goal of this project is to create a Web Engine
+  - The web engine allows us to enter a query that is sports related and any additional information for example if you want to search NBA and crawl things that include Lebron James.
+  - We also can sort the crawled subreddits by upvotes, time, and relevance.
+
+## Link to Full Demo 
+ - https://youtu.be/xTV7-jdZ5Pk
+
+## Crawling Process Setup Overview
+  - The program prints the name of the subreddit currently being crawled and when it starts crawling in New, Hot, and Top posts.
+  - This enables users to monitor the program's progress and status throughout the execution process
+  - Upon completion of the program execution, the number of crawled posts is printed
+  - The program also reports the size of the resulting JSON file, denoted by '[File_Name].json', in bytes
+
 
 ## How to Run the Bash Script file
   - This will run on the terminal assuming that it is compatible with python3
@@ -38,9 +54,3 @@
   ### Important
   - It is crucial to remove the sensitive information of the client ID and client secret from the 'credentials.txt' file to prevent unauthorized access
   - This program does not support parallel execution. Therefore, in situations where multiple users are simultaneously crawling subreddits using this program, the possibility of running duplicate subreddits cannot be ruled out
-
-### Notes
-  - The program prints the name of the subreddit currently being crawled and when it starts crawling in New, Hot, and Top posts.
-    - This enables users to monitor the program's progress and status throughout the execution process
-  - Upon completion of the program execution, the number of crawled posts is printed
-  - The program also reports the size of the resulting JSON file, denoted by '[File_Name].json', in bytes
