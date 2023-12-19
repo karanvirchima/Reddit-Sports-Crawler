@@ -1,4 +1,4 @@
-# Project - WebEnginer using Reddit Crawler for Sports
+# Project - Created Web Engine for Crawling Sports related Reddit Posts
 
 
 ### Notes
